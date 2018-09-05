@@ -5,7 +5,7 @@ This is a simple Python application that reads a source text file and then subse
 ## Input / Source
 
 - The input text for the profanity checker is added in the _**profanity-check.txt**_ file.
-- This file is stored in the following location (/Users/bpeach/Documents/Udacity/Projects/intro-to-python/profanity-checker/source/profanity-check.txt)
+- This file is stored locally in the project directory (e.g., /Users/[name]/Documents//Projects/intro-to-python/profanity-checker/source/profanity-check.txt)
 
 ## Output
 
