@@ -1,11 +1,11 @@
 # Python Profanity Checker
 
-This is a simple Python application that reads a source text file and then subsequently passes it into a This recipe for **cereal and milk** has been passed down my family for months.
+This is a simple Python application that reads a source text file and then subsequently passes it into a Google site that check's for profanity.
 
 ## Input / Source
 
 - The input text for the profanity checker is added in the _**profanity-check.txt**_ file.
-- This file is stored locally in the project directory (e.g., /Users/[name]/Documents//Projects/intro-to-python/profanity-checker/source/profanity-check.txt)
+- This file is stored locally in the project directory (e.g., /Users/[name]/Documents/Udacity/Projects/intro-to-python/profanity-checker/source/profanity-check.txt)
 
 ## Output
 

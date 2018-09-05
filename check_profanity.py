@@ -16,9 +16,9 @@ def check_profanity(text_to_check):
     connection.close()
 
     if b"true" in output:
-        print("Slow your roll buddy, this has some profanity in it!")
+        print("Slow down buddy, this has some profanity in it!")
     elif b"false" in output:
-        print("Carry on my friend, you're profanity free :)")
+        print("Carry on my friend, you're profanity free!")
     else:
         print("Houston, we have a problem --- we couldn't read your document")
 
